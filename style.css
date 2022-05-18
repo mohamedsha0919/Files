@@ -1,0 +1,178 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+.navbar{
+	padding-top: 0;
+	background: #FFA07A;
+}
+.navbar-brand{
+	width: 100px;
+	height: 100px;
+}
+.navbar-nav{
+	margin-left: auto;
+}
+.nav-item{
+	padding-right: 40px;
+	font-size: 18px;
+}
+li .active{
+	border-bottom: 1px solid whitesmoke;
+	padding-bottom: 10px;
+}
+.nav-link{
+	color: #FFFFFF;
+}
+.email-form{
+	text-align: center;
+	margin-top: 20px;
+	font-size: 16px;
+}
+#submit{
+	width: 90px;
+	height: 35px;
+	margin-top: 10px;
+	border: transparent;
+	background: #FFA07A;
+	color: #FFFFFF;
+	border-radius: 20px;
+}
+.main{
+	margin-top: 50px;
+}
+.img-content{
+	margin-left: 60px;
+}
+.store-link{
+	text-decoration: none;
+}
+.price{
+	font-size: 60px;
+}
+.stock{
+	color: green;
+	margin-top: -15px;
+}
+.branch{
+	margin-top: -15px;
+	font-size: 16px;
+}
+.branch-link{
+	text-decoration: none;
+	font-size: 16px;
+	color: green;
+}
+.label{
+	font-size: 16px;
+}
+.select{
+	padding-right: 5px;
+}
+.submit{
+	width: 110px;
+	height: 40px;
+	border: transparent;
+	background: #000000;
+	color: #FFFFFF;
+	font-size: 16px;
+	margin-top: 20px;
+	border-radius: 20px;
+}
+.buy{
+	width: 110px;
+	height: 40px;
+	border: transparent;
+	background: #FFA07A;
+	color: #FFFFFF;
+	font-size: 16px;
+	margin-top: 10px;
+	border-radius: 20px;
+}
+#banner-img{
+	width: 100%;
+	margin-top: 10%;
+}
+#features{
+	margin-top: 50px;
+	padding-bottom: 7%;
+	background: #FFA07A;
+}
+.video-link{
+	margin-top: 7%;
+	margin-left: 20px;
+}
+.img-content-1{
+	margin-left: auto;
+	margin-top: 12%;
+	font-size: 18px;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+.description{
+	padding-bottom: 20px;
+}
+#new-releases{
+	margin-top: 50px;
+}
+span{
+	color: #ff0000;
+	font-size: 22px;
+}
+.card{
+	width: 350px;
+	height: 450px;
+	margin-left: 35px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.card-img-top{
+	width: 300px;
+	height: 300px;
+	margin: 0;
+	padding-left: 30px;
+}
+.card-title{
+	margin-top: -50px;
+	font-size: 26px;
+}
+.card-text{
+	font-size: 26px;
+	margin-top: -10px;
+}
+.del{
+	font-size: 16px;
+	margin-top: -17px;
+}
+.submit-1{
+	width: 110px;
+	height: 40px;
+	border: transparent;
+	background: #FFA07A;
+	color: #FFFFFF;
+	font-size: 16px;
+	margin-top: 0px;
+	border-radius: 20px;
+}
+#contact{
+	height: 100px;
+	margin-top: 50px;
+	background: #FFA07A;
+}
+.contact{
+	color: #FFFFFF;
+}
+.list-item{
+	float: right;
+	display: inline;
+	position: relative;
+	margin-right: 30px;
+	margin-top: 30px;
+}
+.contact-text{
+	float: right;
+	margin-top: 30px;
+	margin-right: -205px;
+	color: grey;
+	
+}
